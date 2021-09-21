@@ -9,3 +9,6 @@ node_modules/
 
 # UPLOAD
 uploads/
+
+# MySql Docker
+docker/mysql/
