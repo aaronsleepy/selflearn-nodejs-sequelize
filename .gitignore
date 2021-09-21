@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Jetbrains
+.idea/
+
+# node
+node_modules/
+
+# UPLOAD
+uploads/
